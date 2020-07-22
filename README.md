@@ -146,7 +146,7 @@ My hobbies include **Painting**, **Reading Current Affairs Magzine**, **Newspape
 ## Some Statistics about my git repo:-
 
 
-![Anurag Mor's github stats](https://github-readme-stats.vercel.app/api?username=Abhijit2505&show_icons=true&line_height=30)<br>
+![Anurag Mor's github stats](https://github-readme-stats.vercel.app/api?username=AMorr1&show_icons=true&line_height=30)<br>
 
 <a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/C++-215%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg" alt=""></a>
