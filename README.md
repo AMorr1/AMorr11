@@ -1,4 +1,4 @@
-![](https://github.com/AMorr1/AMorr1/blob/master/Cover%20Pics.png)
+!(https://github.com/AMorr1/AMorr1/blob/master/Cover%20Pics.png)
 # Hello Everyone 
 This is **Anurag Mor** here. Most probably you know me who are in contact with me. If you know me then I am glad. Thank you for your time.
 
@@ -148,11 +148,11 @@ My hobbies include **Painting**, **Reading Current Affairs Magzine**, **Newspape
 
 ![Anurag Mor's github stats](https://github-readme-stats.vercel.app/api?username=AMorr1&show_icons=true&line_height=30)<br>
 
-<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/C++-215%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg" alt=""></a>
-<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/Python-192%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/C++-21%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/C-5%20commits-brown.svg" alt=""></a>
+<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/Python-19%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/HTML-86%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/Dart-32%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/Dart-3%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/amorr1"><img src="https://img.shields.io/badge/CSS-78%20commits-purple.svg" alt=""></a>
 
 
@@ -160,6 +160,7 @@ My hobbies include **Painting**, **Reading Current Affairs Magzine**, **Newspape
 
 <a href="https://github.com/AMorr1/Agribuzz">
 </a>
+
 <a href="https://github.com/AMorr1/Capstone">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
